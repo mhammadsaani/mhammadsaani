@@ -1,6 +1,6 @@
 ### Hi, I am Hammad! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Muhammad Hammad Sani, currently pursuing BS Computer Science at [Namal University, Mianwali](https://namal.edu.pk/). I am **Tech and Open Source Enthusiast**. I am always open to collaborate on projects, innovative ideas and obviously learn more.
+am Muhammad Hammad Sani, currently pursuing BS Computer Science at [Namal University, Mianwali](https://namal.edu.pk/). I am **Tech and Open Source Enthusiast**. I am always open to collaborate on projects, innovative ideas and obviously learn more.
 
 ![Twitter](https://img.shields.io/twitter/follow/mhammad_saani?label=Hammad&style=social)
 [![LinkedIn Badge](https://img.shields.io/badge/-Hammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadhammadsani/)](https://www.linkedin.com/in/muhammadhammadsani/)
@@ -18,7 +18,7 @@ I am Muhammad Hammad Sani, currently pursuing BS Computer Science at [Namal Univ
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-## 📈 Stats
+#### 📈 Stats
 
 <p align="center">
 	
