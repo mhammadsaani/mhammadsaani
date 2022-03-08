@@ -7,7 +7,7 @@ I am Muhammad Hammad Sani, currently pursuing BS Computer Science at [Namal Univ
 [![Gmail Badge](https://img.shields.io/badge/-m.hammadsaani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.hammadsaani@gmail.com)](mailto:m.hammadsaani@gmail.com)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLhoO6ZFamMZ5EhezfclIQA/featured)
 
-
+[![Hammad's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mhammadsaani&theme=github)](https://github.com/mhammadsaani/github-readme-activity-graph)
 
 ### Language
 
@@ -20,11 +20,7 @@ I am Muhammad Hammad Sani, currently pursuing BS Computer Science at [Namal Univ
 
 #### 📈 Stats
 
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhammadsaani&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhammadsaani&theme=tokyonight" />
-</p>
+
 
 <!--
 **mhammadsaani/mhammadsaani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
