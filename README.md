@@ -20,7 +20,11 @@ I am Muhammad Hammad Sani, currently pursuing BS Computer Science at [Namal Univ
 
 #### 📈 Stats
 
-
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhammadsaani&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhammadsaani&theme=tokyonight" />
+</p>
 
 <!--
 **mhammadsaani/mhammadsaani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
