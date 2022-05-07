@@ -2,6 +2,16 @@
 
 I am Muhammad Hammad Sani, currently pursuing BS Computer Science at [Namal University, Mianwali](https://namal.edu.pk/). I am **Tech and Open Source Enthusiast**. I am always open to collaborate on projects, innovative ideas and obviously learn more.
 
+Currently, 
+- Learning Front End Web Dev (JavaScript) 🕸️ .
+- Exploring DevOps 📦 🚢 concepts like Docker, 
+ CI/CD, AWS, Kubernetes.
+- Working on improving problem solving ability by using 
+ Python 🐍 as a tool
+ 
+&&
+- Proficient in JavaScript, Python and Java.
+
 ![Twitter](https://img.shields.io/twitter/follow/mhammad_saani?label=Hammad&style=social)
 [![LinkedIn Badge](https://img.shields.io/badge/-Hammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadhammadsani/)](https://www.linkedin.com/in/muhammadhammadsani/)
 [![Gmail Badge](https://img.shields.io/badge/-m.hammadsaani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.hammadsaani@gmail.com)](mailto:m.hammadsaani@gmail.com)
@@ -11,9 +21,9 @@ I am Muhammad Hammad Sani, currently pursuing BS Computer Science at [Namal Univ
 
 ### Language
 
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
