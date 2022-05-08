@@ -1,52 +1,46 @@
-### Hi, I am Hammad! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+Hi 👋 I am Hammad Sani
+=====================================
 
-I am Muhammad Hammad Sani, currently pursuing BS Computer Science at [Namal University, Mianwali](https://namal.edu.pk/). I am **Tech and Open Source Enthusiast**. I am always open to collaborate on projects, innovative ideas and obviously learn more.
+Front End Web Dev && DevOps
+---------------------------
 
-Currently, 
-- Learning Front End Web Dev (JavaScript) 🕸️ .
-- Exploring DevOps 📦 🚢 concepts like Docker, 
- CI/CD, AWS, Kubernetes.
-- Working on improving problem solving ability by using 
- Python 🐍 as a tool
- 
-&&
-- Proficient in JavaScript, Python and Java.
+I am Muhammad Hammad Sani, currently pursuing BS Computer Science at [Namal University, Mianwali](https://www.namal.edu.pk/). I am Tech and Open Source Enthusiast. I am always open to collaborate on projects, innovative ideas and obviously learn more.
 
-![Twitter](https://img.shields.io/twitter/follow/mhammad_saani?label=Hammad&style=social)
-[![LinkedIn Badge](https://img.shields.io/badge/-Hammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadhammadsani/)](https://www.linkedin.com/in/muhammadhammadsani/)
-[![Gmail Badge](https://img.shields.io/badge/-m.hammadsaani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.hammadsaani@gmail.com)](mailto:m.hammadsaani@gmail.com)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLhoO6ZFamMZ5EhezfclIQA/featured)
+* 🌍  I'm based in Pakistan
+* ✉️  You can contact me at [m.hammadsaani@gmail.com](mailto:m.hammadsaani@gmail.com)
+* 🧠  I'm learning Currently, 
+  	- Learning Front End Web Dev (JavaScript) 🕸️ .
+  	- Exploring DevOps 📦 🚢 concepts like Docker, CI/CD, AWS, Kubernetes.
+  	- Working on improving problem solving ability by using Python 🐍 as a tool.
+* 🤝  I'm open to collaborating on Web Dev and DevOps related projects
 
-[![Hammad's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mhammadsaani&theme=github)](https://github.com/mhammadsaani/github-readme-activity-graph)
+<a href="https://www.twitter.com/mhammad_saani" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/mhammad_saani?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-### Language
+### Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-#### 📈 Stats
-
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhammadsaani&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhammadsaani&theme=tokyonight" />
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<!--
-**mhammadsaani/mhammadsaani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://www.github.com/mhammadsaani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://hammad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammadhammadsani/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12905982/hammad-sani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mhammad_saani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mhammadsaani"><img src="https://github-readme-stats.vercel.app/api?username=mhammadsaani&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mhammadsaani's GitHub stats" /></a>
+<a href="http://www.github.com/mhammadsaani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhammadsaani&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/mhammadsaani"><img src="https://activity-graph.herokuapp.com/graph?username=mhammadsaani&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/mhammadsaani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhammadsaani&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
