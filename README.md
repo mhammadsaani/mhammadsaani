@@ -1,8 +1,6 @@
 Hi 👋 I am Hammad Sani
 =====================================
 
-Front End Web Dev && DevOps
----------------------------
 
 I am Muhammad Hammad Sani, currently pursuing BS Computer Science at [Namal University, Mianwali](https://www.namal.edu.pk/). I am Tech and Open Source Enthusiast. I am always open to collaborate on projects, innovative ideas and obviously learn more.
 
