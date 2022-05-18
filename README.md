@@ -8,7 +8,7 @@ I am Muhammad Hammad Sani, currently pursuing BS Computer Science at [Namal Univ
 * ✉️  You can contact me at [m.hammadsaani@gmail.com](mailto:m.hammadsaani@gmail.com)
 * 🧠  I'm learning Currently, 
   	- Learning Front End Web Dev (JavaScript) 🕸️ .
-  	- Exploring DevOps 📦 🚢 concepts like Docker, CI/CD, AWS, Kubernetes.
+  	- Exploring DevOps 📦 🚢 concepts like Docker, CI/CD, AWS.
   	- Working on improving problem solving ability by using Python 🐍 as a tool.
 * 🤝  I'm open to collaborating on Web Dev and DevOps related projects
 
