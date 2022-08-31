@@ -9,7 +9,7 @@ I am Muhammad Hammad Sani, currently pursuing BS Computer Science at [Namal Univ
 * 🧠  I'm Currently, 
   	- Building stuff using (HTML/CSS && JavaScript) 🕸️
     - Learning ReactJS
-  	- Sometimes try DevOps 📦 🚢 concepts like Docker
+  	- Sometimes try DevOps 📦 🚢 tools like Docker for fun
 * 🤝  I'm open to collaborating on Web Dev Projects especially Front End Part
 
 <a href="https://www.twitter.com/mhammad_saani" target="_blank" rel="noreferrer"><img
