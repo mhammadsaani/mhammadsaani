@@ -2,18 +2,17 @@ Hi 👋 I am Hammad Sani
 =====================================
 
 
-I am Muhammad Hammad Sani, currently pursuing BS Computer Science at [Namal University, Mianwali](https://www.namal.edu.pk/). I am Tech and Open Source Enthusiast. I am always open to collaborate on projects, innovative ideas and obviously learn more.
+I am Muhammad Hammad Sani, a Computer Science graduate from [Namal University, Mianwali](https://www.namal.edu.pk/). I am a Tech and Open Source Enthusiast. I am always open to collaborating on projects, innovative ideas and learning more.
 
-* 🌍  I'm based in Pakistan
+* 🧠  I have Experience in various Domains, 
+  	- Frontend (HTML/CSS, Tailwind, Bootstrap JavaScript, Basic React) 🕸️
+  	- Backend (Django, Django Rest Framework, FastAPI)
+  	- DevOps 📦 🚢 tools like Docker, Kubernetes, CI/CD (Jenkins, Github Actions), Prometheus, Grafana, Cloud
+  	- Artificial Intelligence (Generative AI especially NLP with Langchain)
 * ✉️  You can contact me at [m.hammadsaani@gmail.com](mailto:m.hammadsaani@gmail.com)
-* 🧠  I'm Currently, 
-  	- Building stuff using (HTML/CSS && JavaScript) 🕸️
-        - Learning ReactJS
-  	- Sometimes try DevOps 📦 🚢 tools like Docker for fun
-* 🤝  I'm open to collaborating on Web Dev Projects especially Front End Part
 
-<a href="https://www.twitter.com/mhammad_saani" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mhammad_saani?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/mhammadsaani" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/mhammadsaani?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
