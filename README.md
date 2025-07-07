@@ -5,9 +5,10 @@ Hi 👋 I am Hammad Sani
 I am Muhammad Hammad Sani, a Computer Science graduate from [Namal University, Mianwali](https://www.namal.edu.pk/). I am a Tech and Open Source Enthusiast. I am always open to collaborating on projects, innovative ideas and learning more.
 
 * 🧠  I have Experience in various Domains, 
-  	- Frontend (HTML/CSS, Tailwind, Bootstrap JavaScript, Basic React) 🕸️
-  	- Backend (Django, Django Rest Framework, FastAPI)
-  	- DevOps 📦 🚢 tools like Docker, Kubernetes, CI/CD (Jenkins, Github Actions), Prometheus, Grafana, Cloud
+  	- Frontend (HTML/CSS, Tailwind, Bootstrap JavaScript, React) 🕸️
+  	- Backend (Express, Node, Django, Django Rest Framework, FastAPI)
+  	- Databases (Postgres, MySql, MongoDB)
+  	- DevOps 📦 🚢 tools like Docker, Kubernetes, CI/CD (Jenkins, Github Actions), Prometheus, Grafana, AWS
   	- Artificial Intelligence (Generative AI especially NLP with Langchain)
 * ✉️  You can contact me at [m.hammadsaani@gmail.com](mailto:m.hammadsaani@gmail.com)
 
