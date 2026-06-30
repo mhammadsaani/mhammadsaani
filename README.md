@@ -89,7 +89,6 @@ Technology evolves quickly, but curiosity and continuous learning never go out o
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhammadsaani&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhammadsaani&theme=github-dark-blue&hide_border=true" height="170"/>
 </p>
 
